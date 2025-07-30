@@ -17,6 +17,9 @@ En nuestro primer trabajo crearemos la estructura HTML de nuestra primera págin
 - Agregar en forma ordenada comentarios separadores tanto como el alumno considere apropiado. Por ejemplo un comentario que diga **HOME** para indicar donde comienza la sección Home. De esa forma cada sección tiene una forma visual para ser encontrada con facilidad.
 - La página no necesita ser identica a esa en estructura. Se le pueden agregar mas secciones, mas articulos o lo que se les vaya ocurriendo. Incluso pueden intentar investigar más etiquetas y pensar como aplicarlas. Usen un poco su imaginación. Esto hará que vayan surgiendo nuevas dudas y curiosidades. Sean curiosos!!
 
+## Entrega
+Se debe comprimir la carpeta de la tarea en un zip o rar y enviarmelo por privado en telegram.
+
 ## Nota:
 - Para clonar el repo **git clone "enlace al repo"**
 - Para bajar descargar nuevos cambios una vez clonado **git pull** estando parado en la rama de la cual se quieren bajar cambios.
