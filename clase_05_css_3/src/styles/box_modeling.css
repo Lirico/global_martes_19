@@ -1,0 +1,25 @@
+/* 
+    BOX MODELING
+
+    Modelando cajitas
+        -> Contenido (texto o elementos que colocamos dentro del container)
+        -> Relleno (todo aquellos que ocupa lugar dentro del container)
+        -> Borde (Delineado que marca los limites del container)
+        -> Margen (El espacio circundante del container, por fuera de los bordes).
+*/
+
+/* * {
+    margin: 0;
+    padding: 0;
+}
+
+.container  {
+    width: 500px;
+    height: 500px;
+    background-color: orange;
+}
+.container2  {
+    width: 500px;
+    height: 500px;
+    background-color: green;
+} */

@@ -1,0 +1,18 @@
+/* 
+    COLORES :D
+
+    RGB -> rgb(red, green, blue)
+
+    Hexadecimal -> 0 1 2 3 4 5 6 7 8 9 A B C D E F
+        -> #3b45fe
+
+    HSL -> Hue(matiz), Saturation(saturacion), Lightness(brillo)
+        hsl(0 - 360, 0 - 100%, 0 - 100%)
+*/
+
+
+.container {
+    width: 500px;
+    height: 500px;
+    background-color: #9EA82A;
+} 

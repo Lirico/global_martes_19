@@ -1,0 +1,78 @@
+/* 
+    POSITIONING
+
+    Generar un sistema de tridimensionalidad.
+    -> ABSOLUTO (absolute) -> Ubica el elemento relativo a los margenes del viewport
+    -> RELATIVO (relative) -> Ubica el elemento relativo a los margenes de su contenedor padre
+    -> FIJADO (fixed) -> Tambien lo hace relativo viewport pero este queda fijado en esa posicion.
+*/
+
+/* .box1 {
+    width: 400px;
+    height: 400px;
+    background-color: aqua;
+    position: absolute;
+    top: 150px;
+    left: 150px;
+    z-index: 2;
+} */
+/* .hijo {
+    width: 100px;
+    height: 100px;
+    background-color: orange;
+    position: relative;
+    right: 50px;
+} */
+/* .box2 {
+    width: 400px;
+    height: 400px;
+    background-color: green;
+    position: absolute;
+    top: 250px;
+    left: 300px;
+    z-index: 3;
+}
+.box3 {
+    width: 400px;
+    height: 400px;
+    background-color: red;
+    position: absolute;
+    top: 400px;
+    left: 100px;
+    z-index: 1;
+} */
+
+/********************************************/
+
+* {
+  margin: 0;
+}
+
+nav {
+  background-color: purple;
+  height: 10vh;
+  position: fixed;
+  width: 100%;
+}
+
+img {
+  width: 80px;
+  position: fixed;
+  bottom: 25px;
+  right: 25px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+/* PSEUDO CLASES -> :hover (hold over) */
+img:hover {
+    transform: scale(1.25);
+}
+
+.uno {
+  background-color: yellow;
+  height: 100vh;
+}
+.dos {
+  background-color: orange;
+  height: 100vh;
+}
