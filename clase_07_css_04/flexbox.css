@@ -1,0 +1,57 @@
+/* 
+    FLEXBOX
+
+    Sistema de distribucion de elementos dentro de un contenedor. 
+
+    Se declara al contenedor padre como flexible y eso habilita un paquete de propiedades que permiten
+    distribuir sus elementos hijos a gusto.
+
+    "flex" es un valor de propiedad "display"
+    "flex-direction" elegir el eje cartesiano en el que se van a alinear los elementos hijos.
+    "justify-content" elegir como queremos que se distribuyan los elementos en el eje X
+    "align-items" elegir como queremos que se distribuyan los elementos en el eje Y
+*/
+
+/* .container {
+  height: 500px;
+  width: 500px;
+  background-color: aqua;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 50px;
+}
+.box {
+  height: 100px;
+  width: 100px;
+  background-color: orange;
+  border: 1px solid black;
+}
+.uno {
+    align-self: start;
+}
+.tres{
+    align-self: end;
+} */
+/* 
+.container {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.card {
+  height: 400px;
+  width: 300px;
+  background-color: orange;
+  border: 1px solid black;
+} */
+
+
+/* 
+    Tarea de investigacion:
+    flex-grow
+    flex-shrink
+    flex-basis
+*/
